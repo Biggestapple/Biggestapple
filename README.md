@@ -1,5 +1,5 @@
-### Hi there 👋
-### 🔭I am working on something cool......
+### Hi there :)
+### 🔭I am working on something cool about acc on FPGA.
 ![Biggestapple's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biggestapple&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biggestapple)](https://github.com/Biggestapple/github-readme-stats)
