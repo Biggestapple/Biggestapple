@@ -1,4 +1,4 @@
-### Hi there Everyone
+### Hi Everyone
 ### 🔭I am working on something cool based on FPGA.
 ![Biggestapple's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biggestapple&show_icons=true&theme=tokyonight)
 
@@ -10,7 +10,7 @@
 </p>
 
 ⚡ Fun fact:
-* ![iverilog](https://img.shields.io/badge/-iverilog-green.svg) ![quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) ![arduino](https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&logoColor=ffffff) ![lceda](https://img.shields.io/badge/-立创EDA-5070F0.svg)
+* ![iverilog](https://img.shields.io/badge/-verilog-green.svg) ![quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) ![arduino](https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&logoColor=ffffff) ![lceda](https://img.shields.io/badge/-立创EDA-5070F0.svg)
 <!--
 **Biggestapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
