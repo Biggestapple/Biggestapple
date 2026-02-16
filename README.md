@@ -1,9 +1,9 @@
 ### Hi Everyone !!!  😀😀😀  ✨✨✨  
-####⚡ Introduction Content
+#### ⚡ Introduction Content
 I am an indendent developer focusing on hardware design (*primarily systemVerilog and verilog*) and software (*ranging Python to C*) currently, however, my research focus is on *Condensed matter Physics* which means my repository updates may be **infrequent** 😬😬😬
 
 ------
-####⚡ My research interests:  
+#### ⚡ My research interests:  
 1.  Computer Architecture Design  
 	1. 8bit/32bit CPU implementation ranging from *8051, Z80 to RSIC-V etc*
 	2. Modern graphic processing pipeline including *ISP, GHP and lightGPU*
@@ -23,7 +23,7 @@ I am an indendent developer focusing on hardware design (*primarily systemVerilo
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Biggestapple&label=Visitors&countColor=%43263759)
 
 ------
-⚡ Fun fact:
+#### ⚡ Fun fact:
 * ![iverilog](https://img.shields.io/badge/-verilog-green.svg) ![quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) ![arduino](https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&logoColor=ffffff) ![lceda](https://img.shields.io/badge/-立创EDA-5070F0.svg)
 
 <div style="
